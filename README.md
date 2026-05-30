@@ -9,8 +9,8 @@
 
 | Nama | NIM (opsional) | Inisial | Peran Utama |
 |------|----------------|---------|-------------|
-| Muhammad Adib Haryadi | ... | MAH | Pengembang UI/UX & Integrasi Antarmuka |
-| Giffari Zaka Wali Andry | ... | GZW | Pengembang Inti Algoritma Twofish |
+| Muhammad Adib Haryadi | ... | MAH | Pengembang Inti Algoritma Twofish |
+| Giffari Zaka Wali Andry | ... | GZW | Pengembang UI/UX & Integrasi Antarmuka |
 | Muhammad Rahman Afrialdi | ... | MRA | Pengembang Mode Operasi & Validasi |
 
 ---
@@ -159,5 +159,5 @@ Proyek ini dibuat untuk keperluan akademik. Silakan digunakan, dimodifikasi, dan
 ## 🙏 Ucapan Terima Kasih
 
 - Bruce Schneier dan tim atas spesifikasi algoritma Twofish.
-- Dosen pengampu mata kuliah ADBO.
+- Dosen pengampu mata kuliah Sistem Keamanan.
 - Fontshare untuk font Boska & Satoshi.
