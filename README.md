@@ -143,7 +143,9 @@ Penjelasan mendalam dan potongan kode disertakan langsung di bagian **Dokumentas
 ---
 
 ## 📂 Struktur Proyek
-├── index.html # Aplikasi tunggal (UI + CSS + JS)
+├── index.html 
+├── style.css
+├── script.js
 └── README.md
 Masih Dalam Tahap Pengembangan
 
